@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/7.ogg-c237a290bfceb3379a47bbba9cbe8d9a.oggstr"
+
+[deps]
+
+source_file="res://nc-assets/voice/ru/girl/7.ogg"
+dest_files=[ "res://.import/7.ogg-c237a290bfceb3379a47bbba9cbe8d9a.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

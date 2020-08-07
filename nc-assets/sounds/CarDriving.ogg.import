@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/CarDriving.ogg-19f84ef1b1bd9ebe5aaaf38953a55124.oggstr"
+
+[deps]
+
+source_file="res://nc-assets/sounds/CarDriving.ogg"
+dest_files=[ "res://.import/CarDriving.ogg-19f84ef1b1bd9ebe5aaaf38953a55124.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

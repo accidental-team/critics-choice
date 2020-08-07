@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/4.ogg-f4b4102b32a37f3848341ee6db669ee4.oggstr"
+
+[deps]
+
+source_file="res://nc-assets/voice/ru/guy/4.ogg"
+dest_files=[ "res://.import/4.ogg-f4b4102b32a37f3848341ee6db669ee4.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

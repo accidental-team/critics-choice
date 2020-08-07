@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Lurking Sloth.ogg-0dd8ccf5e7be8601009a0c29d0d667de.oggstr"
+
+[deps]
+
+source_file="res://free-assets/music/Lurking Sloth.ogg"
+dest_files=[ "res://.import/Lurking Sloth.ogg-0dd8ccf5e7be8601009a0c29d0d667de.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

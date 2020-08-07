@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/4.ogg-217ccd45d5e269deb4f087f12319a670.oggstr"
+
+[deps]
+
+source_file="res://nc-assets/voice/ru/rebel/4.ogg"
+dest_files=[ "res://.import/4.ogg-217ccd45d5e269deb4f087f12319a670.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

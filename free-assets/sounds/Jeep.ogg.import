@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Jeep.ogg-1f65a5a8c1a8ad6c7933a3de22e1c0c3.oggstr"
+
+[deps]
+
+source_file="res://free-assets/sounds/Jeep.ogg"
+dest_files=[ "res://.import/Jeep.ogg-1f65a5a8c1a8ad6c7933a3de22e1c0c3.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

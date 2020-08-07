@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Patience Party.ogg-5fb78d318c2fa62bf90101df2b0cbe08.oggstr"
+
+[deps]
+
+source_file="res://free-assets/music/Patience Party.ogg"
+dest_files=[ "res://.import/Patience Party.ogg-5fb78d318c2fa62bf90101df2b0cbe08.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

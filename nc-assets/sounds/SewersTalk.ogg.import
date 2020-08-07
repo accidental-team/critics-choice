@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/SewersTalk.ogg-b5019c6b634a745f16c6157441a00757.oggstr"
+
+[deps]
+
+source_file="res://nc-assets/sounds/SewersTalk.ogg"
+dest_files=[ "res://.import/SewersTalk.ogg-b5019c6b634a745f16c6157441a00757.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

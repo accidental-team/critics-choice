@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Fall.ogg-d5cd1f31af15287fca7f3e61e335edfd.oggstr"
+
+[deps]
+
+source_file="res://nc-assets/sounds/Fall.ogg"
+dest_files=[ "res://.import/Fall.ogg-d5cd1f31af15287fca7f3e61e335edfd.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

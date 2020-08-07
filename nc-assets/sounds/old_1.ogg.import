@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/old_1.ogg-ccd12dc851fed3662550e0cb23e6b5e9.oggstr"
+
+[deps]
+
+source_file="res://nc-assets/sounds/old_1.ogg"
+dest_files=[ "res://.import/old_1.ogg-ccd12dc851fed3662550e0cb23e6b5e9.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

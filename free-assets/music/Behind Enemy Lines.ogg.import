@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Behind Enemy Lines.ogg-b9946e773b495d478ce480d21a09acb6.oggstr"
+
+[deps]
+
+source_file="res://free-assets/music/Behind Enemy Lines.ogg"
+dest_files=[ "res://.import/Behind Enemy Lines.ogg-b9946e773b495d478ce480d21a09acb6.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

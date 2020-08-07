@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/The Enemy.ogg-8069eb49277d38cadbef4fd116421ec2.oggstr"
+
+[deps]
+
+source_file="res://free-assets/music/The Enemy.ogg"
+dest_files=[ "res://.import/The Enemy.ogg-8069eb49277d38cadbef4fd116421ec2.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

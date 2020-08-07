@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/LeafingThroughPapers.ogg-f84ee7536af7b85eabb8ed555e7c580e.oggstr"
+
+[deps]
+
+source_file="res://free-assets/sounds/LeafingThroughPapers.ogg"
+dest_files=[ "res://.import/LeafingThroughPapers.ogg-f84ee7536af7b85eabb8ed555e7c580e.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

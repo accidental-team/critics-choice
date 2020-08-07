@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/WindBirds.ogg-cbc93f906fbe6490b173b6e2916ce58b.oggstr"
+
+[deps]
+
+source_file="res://free-assets/sounds/WindBirds.ogg"
+dest_files=[ "res://.import/WindBirds.ogg-cbc93f906fbe6490b173b6e2916ce58b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

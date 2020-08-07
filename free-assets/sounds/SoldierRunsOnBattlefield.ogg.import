@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/SoldierRunsOnBattlefield.ogg-063b1305e262c36716e337d3f4d6422a.oggstr"
+
+[deps]
+
+source_file="res://free-assets/sounds/SoldierRunsOnBattlefield.ogg"
+dest_files=[ "res://.import/SoldierRunsOnBattlefield.ogg-063b1305e262c36716e337d3f4d6422a.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

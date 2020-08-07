@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Nostalgic Piano.ogg-26c4ae1505e845bd3738fe2f71c687ff.oggstr"
+
+[deps]
+
+source_file="res://free-assets/music/Nostalgic Piano.ogg"
+dest_files=[ "res://.import/Nostalgic Piano.ogg-26c4ae1505e845bd3738fe2f71c687ff.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

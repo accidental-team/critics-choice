@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/CrowdScream.ogg-9f8ee58179cbbf10d8363da804906af1.oggstr"
+
+[deps]
+
+source_file="res://free-assets/sounds/CrowdScream.ogg"
+dest_files=[ "res://.import/CrowdScream.ogg-9f8ee58179cbbf10d8363da804906af1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

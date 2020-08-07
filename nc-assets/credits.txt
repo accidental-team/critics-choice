@@ -1,0 +1,81 @@
+[center][b]Director[/b]
+Sergey Fedyaev
+
+[b]Co-Director[/b]
+Fyodor Leonkin
+
+[b]Story[/b]
+Sergey Fedyaev
+
+[b]Game Design[/b]
+Sergey Fedyaev
+Fyodor Leonkin
+
+[b]Character Design[/b]
+Sergey Fedyaev
+Dmitry Bragin
+
+[b]Graphics[/b]
+Sergey Fedyaev
+Dmitry Bragin
+
+[b]UI Designer[/b]
+Fyodor Leonkin
+
+[b]Programming[/b]
+Fyodor Leonkin
+
+[b]Music[/b]
+Rafael Krux
+Alexander Nakarada
+Kevin MacLeod
+
+[b]Sound Effects[/b]
+Sergey Fedyaev
+ofuscapreto
+14FValtrovaT
+AlienXXX
+marsebastia
+InspectorJ
+reg7783
+Marnenagel
+AnthonyChan0
+elliotlp
+mnslugger20
+Soundholder
+waxsocks
+michael_grinnell
+bubaproducer
+lawnjelly
+AlineAudio
+jorickhoofd
+owly-bee
+gorkem.yilmaz
+Speedenza
+Vimpy
+Diramus
+Stek59
+
+[b]Voice Actors[/b]
+Narrator — Fyodor Leonkin
+Jason Lee — Denis Mukhankov
+Matt Baker — Dmitry Bragin
+Naomi Song — Maria Vorobyeva
+Guy — Dmitry Kravchuk
+Girl — Maria Vorobyeva
+Aliens — Sergey Fedyaev
+Rebel Leader — Denis Mukhankov
+Old man — Dmitry Kravchuk
+
+[b]English Localization[/b]
+Sergey Fedyaev
+
+[b]Game Testers[/b]
+Alexander Nordmann
+Sergey Fedyaev
+Fyodor Leonkin
+
+
+
+SPECIAL THANKS
+to you for playing this game![/center]

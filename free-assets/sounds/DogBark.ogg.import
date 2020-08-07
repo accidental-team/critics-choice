@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/DogBark.ogg-db2660dd3ffbf5e8b7fc77928d238458.oggstr"
+
+[deps]
+
+source_file="res://free-assets/sounds/DogBark.ogg"
+dest_files=[ "res://.import/DogBark.ogg-db2660dd3ffbf5e8b7fc77928d238458.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

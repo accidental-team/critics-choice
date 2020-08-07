@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/LaserShot.ogg-8f5f1ec6cbcc6c2181c5727fa7594fb2.oggstr"
+
+[deps]
+
+source_file="res://free-assets/sounds/LaserShot.ogg"
+dest_files=[ "res://.import/LaserShot.ogg-8f5f1ec6cbcc6c2181c5727fa7594fb2.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

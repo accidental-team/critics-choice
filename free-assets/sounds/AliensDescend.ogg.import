@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/AliensDescend.ogg-4c88e77d38cf1e8475790c79043dd214.oggstr"
+
+[deps]
+
+source_file="res://free-assets/sounds/AliensDescend.ogg"
+dest_files=[ "res://.import/AliensDescend.ogg-4c88e77d38cf1e8475790c79043dd214.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

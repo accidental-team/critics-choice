@@ -1,0 +1,157 @@
+The code written by Fyodor Leonkin can be found at https://github.com/f-leonkin/critics-choice-code and is in public domain.
+Other files, excluding the ones listed below, are made by Accidental Team and are licenced under CC BY-NC-SA 4.0 license.
+
+--------------
+
+/free-assets
+
+Fonts:
+
+Balsamiq Sans
+https://fonts.google.com/specimen/Balsamiq+Sans
+Author: Michael Angeles
+License: OFL
+
+Marck Script
+https://fonts.google.com/specimen/Marck+Script
+Author: Denis Masharov
+License: OFL
+
+PT Serif
+https://fonts.google.com/specimen/PT+Serif
+Author: ParaType
+License: OFL
+
+Roboto
+https://fonts.google.com/specimen/Roboto
+Author: Christian Robertson
+License: Apache 2.0
+
+
+Music:
+
+https://freepd.com/
+License: CC0
+
+Beginning of Conflict, Behind Enemy Lines, Final Step, Guerilla Tactics, Inspiration, Night Attack, Nostalgic Piano, Spec Ops
+Author: Rafael Krux
+
+Brothers Unite, Lurking Sloth, Parhelion, Pina Colada, The Enemy
+Author: Alexander Nakarada
+
+City Sunshine, Joey's Song, Patience Party
+Author: Kevin MacLeod
+
+
+Sounds:
+
+AliensDescend.ogg
+https://freesound.org/people/ofuscapreto/sounds/237487/
+Author: ofuscapreto
+License: CC0
+
+ConsoleBleep.ogg
+https://freesound.org/people/AlienXXX/sounds/81857/
+Author: AlienXXX
+License: CC BY
+
+CrowdScream.ogg
+https://freesound.org/people/InspectorJ/sounds/421852/
+Author: InspectorJ
+License: CC BY
+
+CrowdScream2.ogg
+https://freesound.org/people/marsebastia/sounds/381895/
+Author: marsebastia
+License: CC BY
+
+DogBark.ogg
+https://freesound.org/people/reg7783/sounds/431354/
+Author: reg7783
+License: CC0
+
+Gunshot.ogg
+https://freesound.org/people/elliotlp/sounds/330634/
+Author: elliotlp
+License: CC0
+
+Gunshots.ogg
+https://freesound.org/people/mnslugger20/sounds/259758/
+Author: mnslugger20
+License: CC0
+
+Gunshots4.ogg
+https://freesound.org/people/AnthonyChan0/sounds/159702/
+Author: AnthonyChan0
+License: CC0
+
+Jeep.ogg
+https://freesound.org/people/Soundholder/sounds/425630/
+Author: Soundholder
+License: CC BY
+
+LaserFromUFO.ogg
+https://freesound.org/people/waxsocks/sounds/500546/
+Author: waxsocks
+License: CC0
+
+LaserShot.ogg
+https://freesound.org/people/bubaproducer/sounds/151022/
+Author: bubaproducer
+License: CC BY
+
+LaserShot2.ogg
+https://freesound.org/people/michael_grinnell/sounds/512469/
+Author: michael_grinnell
+License: CC0
+
+LeafingThroughPapers.ogg
+https://freesound.org/people/lawnjelly/sounds/156890/
+Author: lawnjelly
+License: CC BY
+
+Scream.ogg
+https://freesound.org/people/owly-bee/sounds/415353/
+Author: owly-bee
+License: CC BY
+
+Scream2.ogg
+https://freesound.org/people/AlineAudio/sounds/416543/
+Author: AlineAudio
+License: CC0
+
+Scream3.ogg
+https://freesound.org/people/jorickhoofd/sounds/180341/
+Author: jorickhoofd
+License: CC BY
+
+SoldierRunsOnBattlefield.ogg
+https://freesound.org/people/gorkem.yilmaz/sounds/517112/
+Author: gorkem.yilmaz
+License: CC0
+
+Wind.ogg
+https://freesound.org/people/Stek59/sounds/457318/
+Author: Stek59
+License: CC0
+
+WindBirds.ogg
+https://freesound.org/people/Diramus/sounds/346533/
+Author: Diramus
+License: CC0
+
+------------
+
+/nc-assets
+
+Sounds:
+
+UFO.ogg
+https://freesound.org/people/Speedenza/sounds/209366/
+Author: Speedenza
+License: CC BY-NC
+
+WalkingOnLeafs.ogg
+https://freesound.org/people/Vimpy/sounds/169930/
+Author: Vimpy
+License: CC BY-NC

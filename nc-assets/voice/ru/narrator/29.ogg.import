@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/29.ogg-1f455115cfba4ef80dd8f38f8e48bafe.oggstr"
+
+[deps]
+
+source_file="res://nc-assets/voice/ru/narrator/29.ogg"
+dest_files=[ "res://.import/29.ogg-1f455115cfba4ef80dd8f38f8e48bafe.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

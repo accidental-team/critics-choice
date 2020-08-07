@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/guy_1.ogg-67ba5c4adbfb2121dd22f01c9d43c40e.oggstr"
+
+[deps]
+
+source_file="res://nc-assets/sounds/guy_1.ogg"
+dest_files=[ "res://.import/guy_1.ogg-67ba5c4adbfb2121dd22f01c9d43c40e.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/1.ogg-973b01c16eec5011f202e34a7d9b6e1f.oggstr"
+
+[deps]
+
+source_file="res://nc-assets/voice/ru/matt/1.ogg"
+dest_files=[ "res://.import/1.ogg-973b01c16eec5011f202e34a7d9b6e1f.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

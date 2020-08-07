@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/aliens_9.ogg-69f7fd6517e9bc68ca87e21e25ae5445.oggstr"
+
+[deps]
+
+source_file="res://nc-assets/sounds/aliens_9.ogg"
+dest_files=[ "res://.import/aliens_9.ogg-69f7fd6517e9bc68ca87e21e25ae5445.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

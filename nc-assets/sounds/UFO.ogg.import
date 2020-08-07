@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/UFO.ogg-a12210c681b9d08de4297586c4c76f18.oggstr"
+
+[deps]
+
+source_file="res://nc-assets/sounds/UFO.ogg"
+dest_files=[ "res://.import/UFO.ogg-a12210c681b9d08de4297586c4c76f18.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

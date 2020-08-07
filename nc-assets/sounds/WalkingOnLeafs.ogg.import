@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/WalkingOnLeafs.ogg-9f6182bd1a11bd955eb071b5580d4492.oggstr"
+
+[deps]
+
+source_file="res://nc-assets/sounds/WalkingOnLeafs.ogg"
+dest_files=[ "res://.import/WalkingOnLeafs.ogg-9f6182bd1a11bd955eb071b5580d4492.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

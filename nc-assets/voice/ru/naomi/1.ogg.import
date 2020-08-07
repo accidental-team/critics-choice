@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/1.ogg-576d8d8d1108ce0ae24a78cd36b472dd.oggstr"
+
+[deps]
+
+source_file="res://nc-assets/voice/ru/naomi/1.ogg"
+dest_files=[ "res://.import/1.ogg-576d8d8d1108ce0ae24a78cd36b472dd.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

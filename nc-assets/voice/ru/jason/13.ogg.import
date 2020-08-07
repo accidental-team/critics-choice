@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/13.ogg-ff40ed37b2680d2e1fd2337c204dfff3.oggstr"
+
+[deps]
+
+source_file="res://nc-assets/voice/ru/jason/13.ogg"
+dest_files=[ "res://.import/13.ogg-ff40ed37b2680d2e1fd2337c204dfff3.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
