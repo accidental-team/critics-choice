@@ -16,13 +16,12 @@ Thousands of different games are released every year, most of which you know not
 
 The main character of this story is game journalist Jason Lee. He is 27 years old, but despite his young age he has already managed to earn respect among colleagues and readers. And when the most anticipated game of recent years called The First of Them - the action-drama by the critically acclaimed developer studio Sneaky Cat about the invasion of aliens - was on it’s way, he was assigned to write a review of this game. Will all the expectations come true or will the players be disappointed?
 
-
-
+<p><a href="https://accidental-team.itch.io/critics-choice"><img src="/itch-badge.png" width=250px align="middle"></a><br/><b>For Windows and GNU/Linux</b></p>
 
 © Accidental Team, 2020
 
 ![CC BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
 
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 See [LICENSES.txt](LICENSES.txt) for details about files and used assets.
